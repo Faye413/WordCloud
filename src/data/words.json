@@ -1,0 +1,626 @@
+
+[
+    {
+      "benchmark_count": 29,
+      "benchmark_rating": 4.97,
+      "count": 111.0,
+      "rating": 4.63,
+      "text": "sweet"
+    },
+    {
+      "benchmark_count": 40,
+      "benchmark_rating": 4.6,
+      "count": 137.0,
+      "rating": 4.03,
+      "text": "facility"
+    },
+    {
+      "benchmark_count": 35,
+      "benchmark_rating": 4.89,
+      "count": 93.0,
+      "rating": 4.89,
+      "text": "grateful"
+    },
+    {
+      "benchmark_count": 23,
+      "benchmark_rating": 4.13,
+      "count": 88.0,
+      "rating": 3.38,
+      "text": "problem"
+    },
+    {
+      "benchmark_count": 398,
+      "benchmark_rating": 4.65,
+      "count": 1507.0,
+      "rating": 4.43,
+      "text": "staff"
+    },
+    {
+      "benchmark_count": 23,
+      "benchmark_rating": 3.78,
+      "count": 80.0,
+      "rating": 3.08,
+      "text": "answer"
+    },
+    {
+      "benchmark_count": 32,
+      "benchmark_rating": 4.44,
+      "count": 106.0,
+      "rating": 3.93,
+      "text": "plano"
+    },
+    {
+      "benchmark_count": 38,
+      "benchmark_rating": 4.32,
+      "count": 99.0,
+      "rating": 4.13,
+      "text": "explain"
+    },
+    {
+      "benchmark_count": 220,
+      "benchmark_rating": 4.51,
+      "count": 748.0,
+      "rating": 4.35,
+      "text": "care"
+    },
+    {
+      "benchmark_count": 26,
+      "benchmark_rating": 4.92,
+      "count": 81.0,
+      "rating": 4.5,
+      "text": "heart"
+    },
+    {
+      "benchmark_count": 223,
+      "benchmark_rating": 4.49,
+      "count": 758.0,
+      "rating": 3.91,
+      "text": "child"
+    },
+    {
+      "benchmark_count": 22,
+      "benchmark_rating": 4.82,
+      "count": 77.0,
+      "rating": 4.05,
+      "text": "so much"
+    },
+    {
+      "benchmark_count": 28,
+      "benchmark_rating": 4.14,
+      "count": 88.0,
+      "rating": 4.4,
+      "text": "life"
+    },
+    {
+      "benchmark_count": 24,
+      "benchmark_rating": 4.83,
+      "count": 113.0,
+      "rating": 4.04,
+      "text": "clean"
+    },
+    {
+      "benchmark_count": 26,
+      "benchmark_rating": 4.38,
+      "count": 124.0,
+      "rating": 4.28,
+      "text": "absolutely"
+    },
+    {
+      "benchmark_count": 25,
+      "benchmark_rating": 4.36,
+      "count": 85.0,
+      "rating": 3.4,
+      "text": "today"
+    },
+    {
+      "benchmark_count": 31,
+      "benchmark_rating": 4.94,
+      "count": 120.0,
+      "rating": 4.29,
+      "text": "happy"
+    },
+    {
+      "benchmark_count": 232,
+      "benchmark_rating": 4.28,
+      "count": 817.0,
+      "rating": 3.89,
+      "text": "doctor"
+    },
+    {
+      "benchmark_count": 24,
+      "benchmark_rating": 4.92,
+      "count": 78.0,
+      "rating": 3.9,
+      "text": "center"
+    },
+    {
+      "benchmark_count": 25,
+      "benchmark_rating": 4.68,
+      "count": 80.0,
+      "rating": 4.0,
+      "text": "happen"
+    },
+    {
+      "benchmark_count": 25,
+      "benchmark_rating": 2.2,
+      "count": 81.0,
+      "rating": 2.13,
+      "text": "bad"
+    },
+    {
+      "benchmark_count": 28,
+      "benchmark_rating": 4.71,
+      "count": 101.0,
+      "rating": 4.04,
+      "text": "job"
+    },
+    {
+      "benchmark_count": 42,
+      "benchmark_rating": 3.86,
+      "count": 96.0,
+      "rating": 3.31,
+      "text": "sick"
+    },
+    {
+      "benchmark_count": 29,
+      "benchmark_rating": 4.72,
+      "count": 105.0,
+      "rating": 4.57,
+      "text": "god"
+    },
+    {
+      "benchmark_count": 316,
+      "benchmark_rating": 4.4,
+      "count": 1008.0,
+      "rating": 4.17,
+      "text": "nurse"
+    },
+    {
+      "benchmark_count": 19,
+      "benchmark_rating": 4.58,
+      "count": 80.0,
+      "rating": 4.0,
+      "text": "spend"
+    },
+    {
+      "benchmark_count": 24,
+      "benchmark_rating": 3.38,
+      "count": 82.0,
+      "rating": 3.28,
+      "text": "issue"
+    },
+    {
+      "benchmark_count": 37,
+      "benchmark_rating": 4.68,
+      "count": 118.0,
+      "rating": 4.21,
+      "text": "dallas"
+    },
+    {
+      "benchmark_count": 34,
+      "benchmark_rating": 3.59,
+      "count": 89.0,
+      "rating": 3.18,
+      "text": "right"
+    },
+    {
+      "benchmark_count": 43,
+      "benchmark_rating": 3.7,
+      "count": 117.0,
+      "rating": 3.25,
+      "text": "check"
+    },
+    {
+      "benchmark_count": 42,
+      "benchmark_rating": 4.76,
+      "count": 127.0,
+      "rating": 4.54,
+      "text": "little"
+    },
+    {
+      "benchmark_count": 32,
+      "benchmark_rating": 4.81,
+      "count": 130.0,
+      "rating": 4.64,
+      "text": "excellent"
+    },
+    {
+      "benchmark_count": 63,
+      "benchmark_rating": 4.3,
+      "count": 192.0,
+      "rating": 3.69,
+      "text": "medical"
+    },
+    {
+      "benchmark_count": 20,
+      "benchmark_rating": 4.9,
+      "count": 59.0,
+      "rating": 4.92,
+      "text": "surgeon"
+    },
+    {
+      "benchmark_count": 201,
+      "benchmark_rating": 4.51,
+      "count": 663.0,
+      "rating": 4.31,
+      "text": "hospital"
+    },
+    {
+      "benchmark_count": 19,
+      "benchmark_rating": 2.89,
+      "count": 76.0,
+      "rating": 2.24,
+      "text": "appointment"
+    },
+    {
+      "benchmark_count": 70,
+      "benchmark_rating": 4.09,
+      "count": 264.0,
+      "rating": 3.94,
+      "text": "experience"
+    },
+    {
+      "benchmark_count": 27,
+      "benchmark_rating": 2.63,
+      "count": 71.0,
+      "rating": 2.09,
+      "text": "call"
+    },
+    {
+      "benchmark_count": 31,
+      "benchmark_rating": 5.0,
+      "count": 151.0,
+      "rating": 4.72,
+      "text": "comfortable"
+    },
+    {
+      "benchmark_count": 22,
+      "benchmark_rating": 5.0,
+      "count": 55.0,
+      "rating": 5.0,
+      "text": "recovery"
+    },
+    {
+      "benchmark_count": 40,
+      "benchmark_rating": 5.0,
+      "count": 169.0,
+      "rating": 4.83,
+      "text": "caring"
+    },
+    {
+      "benchmark_count": 123,
+      "benchmark_rating": 4.95,
+      "count": 442.0,
+      "rating": 4.97,
+      "text": "amazing"
+    },
+    {
+      "benchmark_count": 72,
+      "benchmark_rating": 3.08,
+      "count": 185.0,
+      "rating": 2.72,
+      "text": "hour"
+    },
+    {
+      "benchmark_count": 21,
+      "benchmark_rating": 4.14,
+      "count": 59.0,
+      "rating": 3.47,
+      "text": "understand"
+    },
+    {
+      "benchmark_count": 73,
+      "benchmark_rating": 3.99,
+      "count": 228.0,
+      "rating": 3.56,
+      "text": "kid"
+    },
+    {
+      "benchmark_count": 23,
+      "benchmark_rating": 5.0,
+      "count": 70.0,
+      "rating": 5.0,
+      "text": "ease"
+    },
+    {
+      "benchmark_count": 72,
+      "benchmark_rating": 4.81,
+      "count": 251.0,
+      "rating": 4.65,
+      "text": "helpful"
+    },
+    {
+      "benchmark_count": 26,
+      "benchmark_rating": 5.0,
+      "count": 70.0,
+      "rating": 5.0,
+      "text": "moment"
+    },
+    {
+      "benchmark_count": 55,
+      "benchmark_rating": 4.44,
+      "count": 177.0,
+      "rating": 4.21,
+      "text": "baby"
+    },
+    {
+      "benchmark_count": 16,
+      "benchmark_rating": 5.0,
+      "count": 57.0,
+      "rating": 4.75,
+      "text": "bear"
+    },
+    {
+      "benchmark_count": 78,
+      "benchmark_rating": 3.74,
+      "count": 200.0,
+      "rating": 3.28,
+      "text": "er"
+    },
+    {
+      "benchmark_count": 19,
+      "benchmark_rating": 4.58,
+      "count": 64.0,
+      "rating": 4.0,
+      "text": "far"
+    },
+    {
+      "benchmark_count": 59,
+      "benchmark_rating": 4.8,
+      "count": 211.0,
+      "rating": 4.59,
+      "text": "awesome"
+    },
+    {
+      "benchmark_count": 24,
+      "benchmark_rating": 4.92,
+      "count": 65.0,
+      "rating": 4.64,
+      "text": "procedure"
+    },
+    {
+      "benchmark_count": 35,
+      "benchmark_rating": 4.54,
+      "count": 143.0,
+      "rating": 3.58,
+      "text": "service"
+    },
+    {
+      "benchmark_count": 30,
+      "benchmark_rating": 4.87,
+      "count": 92.0,
+      "rating": 4.6,
+      "text": "yesterday"
+    },
+    {
+      "benchmark_count": 53,
+      "benchmark_rating": 4.74,
+      "count": 174.0,
+      "rating": 4.7,
+      "text": "family"
+    },
+    {
+      "benchmark_count": 140,
+      "benchmark_rating": 4.9,
+      "count": 484.0,
+      "rating": 4.7,
+      "text": "thank"
+    },
+    {
+      "benchmark_count": 29,
+      "benchmark_rating": 5.0,
+      "count": 90.0,
+      "rating": 5.0,
+      "text": "informative"
+    },
+    {
+      "benchmark_count": 63,
+      "benchmark_rating": 4.56,
+      "count": 199.0,
+      "rating": 4.33,
+      "text": "help"
+    },
+    {
+      "benchmark_count": 72,
+      "benchmark_rating": 3.1,
+      "count": 219.0,
+      "rating": 2.92,
+      "text": "wait"
+    },
+    {
+      "benchmark_count": 19,
+      "benchmark_rating": 3.53,
+      "count": 66.0,
+      "rating": 3.67,
+      "text": "treatment"
+    },
+    {
+      "benchmark_count": 54,
+      "benchmark_rating": 3.85,
+      "count": 170.0,
+      "rating": 3.62,
+      "text": "people"
+    },
+    {
+      "benchmark_count": 20,
+      "benchmark_rating": 4.6,
+      "count": 57.0,
+      "rating": 4.38,
+      "text": "special"
+    },
+    {
+      "benchmark_count": 142,
+      "benchmark_rating": 4.36,
+      "count": 431.0,
+      "rating": 3.95,
+      "text": "daughter"
+    },
+    {
+      "benchmark_count": 18,
+      "benchmark_rating": 4.89,
+      "count": 72.0,
+      "rating": 4.5,
+      "text": "especially"
+    },
+    {
+      "benchmark_count": 32,
+      "benchmark_rating": 3.88,
+      "count": 160.0,
+      "rating": 3.33,
+      "text": "find"
+    },
+    {
+      "benchmark_count": 78,
+      "benchmark_rating": 4.79,
+      "count": 337.0,
+      "rating": 4.68,
+      "text": "friendly"
+    },
+    {
+      "benchmark_count": 18,
+      "benchmark_rating": 4.89,
+      "count": 71.0,
+      "rating": 4.44,
+      "text": "hand"
+    },
+    {
+      "benchmark_count": 60,
+      "benchmark_rating": 4.67,
+      "count": 192.0,
+      "rating": 4.17,
+      "text": "kind"
+    },
+    {
+      "benchmark_count": 20,
+      "benchmark_rating": 4.6,
+      "count": 59.0,
+      "rating": 4.54,
+      "text": "grandson"
+    },
+    {
+      "benchmark_count": 43,
+      "benchmark_rating": 4.91,
+      "count": 181.0,
+      "rating": 4.53,
+      "text": "professional"
+    },
+    {
+      "benchmark_count": 64,
+      "benchmark_rating": 4.97,
+      "count": 194.0,
+      "rating": 4.97,
+      "text": "team"
+    },
+    {
+      "benchmark_count": 24,
+      "benchmark_rating": 5.0,
+      "count": 60.0,
+      "rating": 5.0,
+      "text": "compassionate"
+    },
+    {
+      "benchmark_count": 42,
+      "benchmark_rating": 4.24,
+      "count": 152.0,
+      "rating": 3.53,
+      "text": "patient"
+    },
+    {
+      "benchmark_count": 60,
+      "benchmark_rating": 4.43,
+      "count": 212.0,
+      "rating": 4.16,
+      "text": "treat"
+    },
+    {
+      "benchmark_count": 20,
+      "benchmark_rating": 2.6,
+      "count": 65.0,
+      "rating": 2.5,
+      "text": "pediatrician"
+    },
+    {
+      "benchmark_count": 136,
+      "benchmark_rating": 4.85,
+      "count": 533.0,
+      "rating": 4.72,
+      "text": "love"
+    },
+    {
+      "benchmark_count": 22,
+      "benchmark_rating": 3.55,
+      "count": 75.0,
+      "rating": 2.5,
+      "text": "minute"
+    },
+    {
+      "benchmark_count": 64,
+      "benchmark_rating": 4.88,
+      "count": 206.0,
+      "rating": 4.79,
+      "text": "surgery"
+    },
+    {
+      "benchmark_count": 28,
+      "benchmark_rating": 3.11,
+      "count": 64.0,
+      "rating": 2.67,
+      "text": "star"
+    },
+    {
+      "benchmark_count": 46,
+      "benchmark_rating": 4.65,
+      "count": 224.0,
+      "rating": 4.57,
+      "text": "recommend"
+    },
+    {
+      "benchmark_count": 24,
+      "benchmark_rating": 3.67,
+      "count": 68.0,
+      "rating": 3.4,
+      "text": "parent"
+    },
+    {
+      "benchmark_count": 153,
+      "benchmark_rating": 4.45,
+      "count": 542.0,
+      "rating": 4.04,
+      "text": "son"
+    },
+    {
+      "benchmark_count": 24,
+      "benchmark_rating": 4.92,
+      "count": 76.0,
+      "rating": 4.47,
+      "text": "girl"
+    },
+    {
+      "benchmark_count": 68,
+      "benchmark_rating": 4.78,
+      "count": 291.0,
+      "rating": 4.28,
+      "text": "nice"
+    },
+    {
+      "benchmark_count": 26,
+      "benchmark_rating": 4.08,
+      "count": 71.0,
+      "rating": 3.94,
+      "text": "admit"
+    },
+    {
+      "benchmark_count": 67,
+      "benchmark_rating": 4.97,
+      "count": 259.0,
+      "rating": 4.89,
+      "text": "wonderful"
+    },
+    {
+      "benchmark_count": 17,
+      "benchmark_rating": 4.53,
+      "count": 71.0,
+      "rating": 4.73,
+      "text": "attentive"
+    }
+  ]
